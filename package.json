@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "nkamlo237",
+	"description": "An example for learning how to use npm package.json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
